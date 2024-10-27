@@ -11,7 +11,6 @@ Bem-vindo ao curso **Introdução à Computação em Nuvem com Azure**! Este cur
 - [Conteúdo do Curso](#conteúdo-do-curso)
 - [Material Complementar](#material-complementar)
 - [Certificação](#certificação)
-- [Contato](#contato)
 
 ---
 
@@ -77,14 +76,4 @@ Não há requisitos técnicos avançados para participar deste curso. No entanto
 
 Ao completar o curso, recomendamos a certificação **Microsoft Certified: Azure Fundamentals** para validar seus conhecimentos básicos em computação em nuvem e na plataforma Azure.
 
-## Contato
 
-Se você tiver dúvidas, entre em contato com nosso time de suporte:
-
-- **Email**: suporte@exemplo.com
-- **Telefone**: (11) 1234-5678
-- **Horário de Atendimento**: Segunda a Sexta, das 9h às 18h.
-
----
-
-Estamos ansiosos para explorar a computação em nuvem com você!
